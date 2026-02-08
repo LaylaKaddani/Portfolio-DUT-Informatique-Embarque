@@ -22,6 +22,8 @@ Ce portfolio web et les projets présentés utilisent les technologies suivantes
 - **Raspberry Pi** - Serveur central et broker MQTT
 - **Raspberry Pi Pico** - Microcontrôleur pour acquisition de données
 - **Node-RED** - Interface de programmation visuelle pour la domotique
+- **Python** - Traitement de données et développement de dashboards
+- **Tkinter** - Interface graphique Python
 
 ### 📡 Protocoles & Communication
 - **MQTT** - Communication entre capteurs et serveur
