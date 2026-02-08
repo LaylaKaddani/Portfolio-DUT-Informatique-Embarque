@@ -49,7 +49,7 @@ Ce portfolio web et les projets présentés utilisent les technologies suivantes
 ![Section À propos](./images/portfolio-about.png)
 *Présentation détaillée, compétences et parcours*
 
-### Page Contact
+### Page Contact & Experience
 ![Formulaire de contact](./images/portfolio-contact.png)
 *Formulaire de contact*
 
