@@ -1,4 +1,4 @@
-# 🎓 Portfolio DUT Informatique Embarqué - Layla Kaddani
+# 🎓 Portfolio DUT Informatique Embarqué 
 
 Portfolio web réalisé pendant mon DUT Informatique Embarqué, présentant une sélection de mes projets en IoT et systèmes embarqués.
 
