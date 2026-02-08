@@ -42,15 +42,15 @@ Ce portfolio web et les projets présentés utilisent les technologies suivantes
 ## 🖼️ Visualisation du Portfolio
 
 ### Page d'accueil
-![Page d'accueil du portfolio](./images/portfolio-accueil.jpg)
+![Page d'accueil du portfolio](./images/portfolio-accueil.png)
 *Interface principale avec navigation, présentation et bouton d'exploration*
 
 ### Section "À propos"
-![Section À propos](./images/portfolio-about.jpg)
+![Section À propos](./images/portfolio-about.png)
 *Présentation détaillée, compétences et parcours*
 
 ### Page Contact
-![Formulaire de contact](./images/portfolio-contact.jpg)
+![Formulaire de contact](./images/portfolio-contact.png)
 *Formulaire de contact*
 
 ### Section Projets
