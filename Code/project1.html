@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Portfolio responsive showcasing my projects and skills">
+  <meta name="author" content="Layla Kaddani">
+  <title>Layla Kaddani | Projects</title>
+
+  <link href="style.css" rel="stylesheet">
+
+</head>
+<body>
+
+  <section id="projects" class="projects-section">
+    <h2>My Projects</h2>
+    <div class="projects-grid">
+      <div class="project-card">
+        <img src="images/Image1.jpg" alt="Dashboard On node-red">
+        <section> <h3>Home Automation and Monitoring System</h3>
+                  <p>I create a  monitoring system using Node-RED and the MQTT protocol.<br>
+                  I use a Raspberry Pi as the central server (MQTT broker), where sensors <br>
+                  like LDR or a temperature sensor (DHT11) send their data. With Node-RED, <br>
+                  I build a visual interface to see this data in real-time and control actions,<br>
+                   like turning on or off a light  or opening a door using servo motor.<br>
+                  It works like a conversation: sensors "talk" (publish data),the Raspberry Pi<br>
+                   "listens" (MQTT broker), and I, through the interface, decide what to do.</p> </section>
+                   <img src="images/Image3.jpg" alt="Dashboard On node-red">
+
+      </div>
+      
+      <div class="project-card">
+        <img src="images/Image4.png" alt="Weather Dashboard using Python">
+        <h3>Environmental Monitoring  Dashboard</h3>
+        <p>This project uses a Raspberry Pi Pico with connected sensors <br>
+          (DHT11, LDR, and water sensor) to measure environmental parameters:<br>
+           temperature, humidity, light intensity, and water presence. Data is<br>
+            continuously collected and stored in a CSV file for analysis. A Python-based<br>
+             dashboard, built with Tkinter, visualizes these measurements through multiple<br>
+              pages for efficient monitoring. The dashboard includes a home page <br>
+              introducing the system, a display page with options for viewing <br>
+              individual graphs for each sensor, a combined graph showing all parameters together,<br>
+               and a table view for raw data. Additionally, a support page is provided for user <br>
+               feedback, and a manual page guides users through the application and so much more.<br>
+                 </p>
+        <img src="images/Image5.png" alt="Weather Dashboard using Python">
+      </div>
+    </div>
+  </section>
+
+  <section class="cta-section">
+    <h2>Want to collaborate or need help with a project?</h2>
+    <a href="contact.html" class="cta-large">Let's Talk</a>
+  </section>
+
+  <script src="script.js"></script>
+</body>
+</html>
+
